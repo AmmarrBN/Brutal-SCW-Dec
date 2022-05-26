@@ -1,3 +1,6 @@
+# Decompile By AmmarrBN
+# Buat Belajar Juga Ya Ngab Biar Jago
+# Opem Source Code Spesial 1k Subs
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 import os,sys,time,requests,re,json
